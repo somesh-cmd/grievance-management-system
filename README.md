@@ -233,12 +233,4 @@ Customer service portals
 
 The Grievance Management System provides a smart and scalable solution for handling complaints through automation and AI integration. By enabling seamless grievance submission, intelligent classification, and transparent tracking, the system enhances institutional responsiveness and user satisfaction while minimizing manual workload.
 
-If you want, I can next prepare:
 
-⭐ 2-line LinkedIn summary
-
-📊 Architecture diagram explanation
-
-🗄️ ER diagram description
-
-📑 SRS / Documentation format
